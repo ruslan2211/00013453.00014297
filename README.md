@@ -1,0 +1,1 @@
+The game is itself beautifully designed by the individuals of trthe Wiut students. And it is very simple to follow with given instrucions to play. And it is one level game, and where if the snake hits the wall, the game finishes, if users avoids crushing walls, and get the points, the user might take up to 500 points where the game automatically finishes.
